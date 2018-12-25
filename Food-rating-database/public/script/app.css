@@ -1,0 +1,15 @@
+.head{
+  color: blue;
+  margin-left: 50%;
+}
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+.childTree {
+  color: blue;
+  flex: 1 0 40%;
+  margin: 10px;
+  height: 100px;
+}
+
